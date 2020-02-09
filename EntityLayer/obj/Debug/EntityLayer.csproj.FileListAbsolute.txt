@@ -1,0 +1,10 @@
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\ishak\OneDrive\Masaüstü\dersler ve projeler\Entity Framework\Ders Kayıt Sistemi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\dersler ve projeler\Entity Framework\Ders Kayıt Sistemi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ishak\OneDrive\Masaüstü\dersler ve projeler\Entity Framework\Ders Kayıt Sistemi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\ishak\OneDrive\Masaüstü\dersler ve projeler\Entity Framework\Ders Kayıt Sistemi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\dersler ve projeler\Entity Framework\Ders Kayıt Sistemi\EntityLayer\obj\Debug\EntityLayer.pdb

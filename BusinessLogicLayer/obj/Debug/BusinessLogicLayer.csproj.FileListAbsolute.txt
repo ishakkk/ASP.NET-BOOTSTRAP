@@ -1,0 +1,11 @@
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\ishak\OneDrive\Masaüstü\YazokuluDerler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
